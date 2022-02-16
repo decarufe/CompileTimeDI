@@ -11,7 +11,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoStrongInject", "DemoStr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoJab", "DemoJab\DemoJab.csproj", "{68CEA96D-FA6E-4CE0-BBDA-BD4FB27B3DD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoThunderbolt", "DemoThunderbolt\DemoThunderbolt.csproj", "{719408B7-CC8B-4EEF-81BC-C42CCE1A30D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoThunderbolt", "DemoThunderbolt\DemoThunderbolt.csproj", "{719408B7-CC8B-4EEF-81BC-C42CCE1A30D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C0125DAD-744C-49D1-91D7-FD42CE650AF9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
